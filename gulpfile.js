@@ -98,17 +98,6 @@ gulp.task('sass', function() {
         }));
 });
 
-function handleErrors() {
-  var gutil = require('gulp-util');
-  var args = Array.prototype.slice.call(arguments);
-
-  gutil.log(gutil.colors.white.bgRed.underline.bold('Gulp error:'));
-  gutil.log(gutil.colors.red(args));
-
-  // continue with gulp tasks
-  this.emit('end');
-}
-
 // insert task for development 
 gulp.task('insert:dev', function() {
 
