@@ -1,14 +1,13 @@
 {
   "name": "start-project-html5-sass-gulp-bower",
-  "title": "Qucik start frontend project",
-  "url": "",
+  "title": "Quick start frontend project",
   "author": "qbaa",
   "copyright": "2016",
   "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/qbaa/start-project-html5-sass-gulp-bower"
   },
   "devDependencies": {
     "browser-sync": "^2.13.0",
