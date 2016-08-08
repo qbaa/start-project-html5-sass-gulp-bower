@@ -1,0 +1,21 @@
+{
+  "name": "start-projekt-html5-sass-gulp-bower",
+  "description": "Quick start frontend project",
+  "main": "",
+  "authors": [
+    "qbaa"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.6",
+    "normalize-css": "^4.2.0",
+    "slick-carousel": "^1.6.0"
+  }
+}

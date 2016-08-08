@@ -1,0 +1,41 @@
+//----------------------------------*\
+// Configuration and helpers
+//----------------------------------*/
+
+@import 'abstracts/_variables.scss';
+@import 'abstracts/_functions.scss';
+@import 'abstracts/_mixins.scss';
+
+//----------------------------------*\
+// Base
+//----------------------------------*/
+
+@import 'base/_base.scss';
+@import 'base/_fonts.scss';
+@import 'base/_typography.scss';
+@import 'base/_helpers.scss';
+
+//----------------------------------*\
+// Layout sections
+//----------------------------------*/
+
+@import 'layout/_header.scss';
+@import 'layout/_footer.scss';
+
+//----------------------------------*\
+// Components
+//----------------------------------*/
+
+@import 'components/_buttons.scss';
+
+//----------------------------------*\
+// Pages
+//----------------------------------*/
+
+@import 'pages/_home.scss';
+
+//----------------------------------*\
+// Themes
+//----------------------------------*/
+
+@import 'themes/_default.scss';

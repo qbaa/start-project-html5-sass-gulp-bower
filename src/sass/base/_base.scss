@@ -1,0 +1,54 @@
+html {
+    box-sizing: border-box;
+}
+
+a {
+    color: $link-color;
+    text-decoration: none;
+}
+
+body {
+	background: #ccc;
+}
+
+@media #{$small-up} {
+	body {
+		background: red;
+	}
+}
+
+@media #{$small-only} {
+	body {
+		background: red;
+	}
+}
+
+@media #{$medium-up} {
+	body {
+		background: green;
+	}
+}
+
+@media #{$medium-only} {
+	body {
+		background: green;
+	}
+}
+
+@media #{$large-up} {
+	body {
+		background: black;
+	}
+}
+
+@media #{$large-only} {
+	body {
+		background: black;
+	}
+}
+
+@media #{$wide-up} {
+	body {
+		background: orange;
+	}
+}

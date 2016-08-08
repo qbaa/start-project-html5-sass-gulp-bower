@@ -1,0 +1,26 @@
+// Font's color
+$text-color: #000;
+$link-color: #FF0000;
+
+
+// Container's maximum width
+$max-width: 1180px !default;
+
+
+// Breakpoints
+$small: 320px;
+$medium: 768px;
+$large: 1024px;
+$wide: 1200px; 
+
+
+$small-up: "only screen and (min-width: #{$small})" !default;
+$small-only: "only screen and (min-width: #{$small}) and (max-width: #{$medium}-1)" !default;
+
+$medium-up: "only screen and (min-width: #{$medium})" !default;
+$medium-only: "only screen and (min-width: #{$medium}) and (max-width: #{$large}-1)" !default;
+
+$large-up: "only screen and (min-width: #{$large})" !default;
+$large-only: "only screen and (min-width: #{$large}) and (max-width: #{$wide}-1)" !default;
+
+$wide-up: "only screen and (min-width: #{$wide})" !default;

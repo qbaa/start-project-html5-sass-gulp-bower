@@ -1,0 +1,26 @@
+{
+  "name": "start-project-html5-sass-gulp-bower",
+  "title": "Qucik start frontend project",
+  "url": "",
+  "author": "qbaa",
+  "copyright": "2016",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.11",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^3.0.2",
+    "gulp-inject": "^4.1.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^1.5.4",
+    "stream-series": "^0.1.1"
+  }
+}
