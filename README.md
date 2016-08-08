@@ -1,4 +1,4 @@
-# Start projekt html5 sass gulp bower
+# Start project html5 sass gulp bower
 Qucik start frontend project, using:
 - Sass (using 7-1 pattern: https://sass-guidelin.es/#architecture)
 - Gulp
@@ -37,7 +37,7 @@ When you developing already. Fast reload and compilinig.
   - browserSync (run localhot server and refresh, when change sass, js or html files)
   - autoprefixer (auto adding prefixes)
 
-###gulp image
+###gulp images
 Optimization images in app/img folder, and copy sources files to app/img/src
 
 ####Modules using:
