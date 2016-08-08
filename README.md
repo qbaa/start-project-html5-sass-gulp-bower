@@ -28,6 +28,7 @@ When you end development. Conact and uglify js files, conact and minify css file
   - conact
   - uglify
   - cleanCSS
+  - inject
 
 ###gulp
 When you developing already. Fast reload and compilinig.
