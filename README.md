@@ -16,12 +16,12 @@ Qucik start frontend project, using:
 
 ##Gulp tasks:
 ###gulp dev
-Wnen you start development. Copy files from bower folders, to app folder, and inject in html's files, in head section.
+When you start development. Copy files from bower folders, to app folder, and inject in html's files, in head section.
 
 ####Modules using:
   - inject
 
-##gulp prod
+###gulp prod
 When you end development. Conact and uglify js files, conact and minify css files, and inject in head section.
 
 ####Modules using:
