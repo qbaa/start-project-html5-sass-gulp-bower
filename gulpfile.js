@@ -1,13 +1,13 @@
 var gulp = require('gulp'),
-	sass = require('gulp-sass'),
-	notify = require("gulp-notify"),
-	autoprefixer = require('gulp-autoprefixer'),
-	browserSync = require('browser-sync'),
-	uglify = require('gulp-uglify'),
-	concat = require('gulp-concat'),
+    sass = require('gulp-sass'),
+    notify = require("gulp-notify"),
+    autoprefixer = require('gulp-autoprefixer'),
+    browserSync = require('browser-sync'),
+    uglify = require('gulp-uglify'),
+    concat = require('gulp-concat'),
     inject = require('gulp-inject'),
     series = require('stream-series'),    
-	cleanCSS = require('gulp-clean-css'),
+    cleanCSS = require('gulp-clean-css'),
     imagemin = require('gulp-imagemin');
 
 var paths = {
