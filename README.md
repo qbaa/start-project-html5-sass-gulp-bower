@@ -1,5 +1,5 @@
 # Start project html5 sass gulp bower
-Qucik start frontend project, using:
+Quick start frontend project, using:
 - Sass (using 7-1 pattern: https://sass-guidelin.es/#architecture)
 - Gulp
 - Bower
