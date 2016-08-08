@@ -38,7 +38,7 @@ When you developing already. Fast reload and compilinig.
   - autoprefixer (auto adding prefixes)
 
 ###gulp images
-Optimization images in app/img folder, and copy sources files to app/img/src
+Optimization images in app/img folder, and copy sources files to app/img/src.
 
 ####Modules using:
   - imagemin
